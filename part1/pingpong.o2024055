@@ -1,0 +1,14 @@
+Sun May  7 12:29:20 PDT 2017
+compute-13-4.local
+
+
+
+--------------------------------------------------------------------------
+mpirun was unable to launch the specified application as it could not access
+or execute an executable:
+
+Executable: ./pingpong
+Node: compute-13-4
+
+while attempting to start process rank 0.
+--------------------------------------------------------------------------
